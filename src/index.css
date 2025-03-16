@@ -27,7 +27,16 @@ body {
   min-height: 110rem;
   padding: 1rem;
 }
+.join-screen {
+  text-align: center;
+  margin-top: 50px;
+}
 
+.join-screen button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
 header {
   text-align: center;
 }
